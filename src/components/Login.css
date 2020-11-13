@@ -1,0 +1,18 @@
+.login__body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.login__body > button {
+  margin-top: 50px;
+  background-color: #b7b7b7;
+  text-transform: inherit;
+}
+
+.login__body > button:hover {
+  color: black;
+  background-color: white;
+}
