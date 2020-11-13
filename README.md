@@ -1,4 +1,4 @@
-# WhatsApp web app
+# Chatty web app
 - A WhatsApp web app clone with google authentication
 
 
@@ -15,14 +15,13 @@
 - material-ui icons
 
 
-## Preview
-- https://whatsapp-web-app.web.app/
+
 
 ## Devlopment
 
 ```
-$ git clone https://github.com/robin025/whatsapp-clone-react.git
-$ cd whatsapp-web-app
+$ git clone 
+$ cd chattyapp
 $ npm install && npm start
 ```
 
