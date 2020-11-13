@@ -1,5 +1,5 @@
 # Chatty web app
-- A WhatsApp web app clone with google authentication
+- A Chatty App web app with google authentication
 
 
 ## Tech Stack
